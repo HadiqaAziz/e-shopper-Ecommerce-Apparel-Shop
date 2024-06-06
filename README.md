@@ -2,6 +2,7 @@
  Welcome to the Ecommerce Apparel Shop repository! 
  This project is an online store that allows users to browse different categories of clothing and shoes. 
  It features a cart functionality but currently does not include login, logout, or transaction functionalities.
+ (![Project Logo](picture.jpg))
 
 # Table of Contents
 Features

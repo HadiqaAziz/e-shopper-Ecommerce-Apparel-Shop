@@ -4,6 +4,10 @@
  It features a cart functionality but currently does not include login, logout, or transaction functionalities.
  (![Project Logo](picture.jpg))
 
+ # Demo
+Check out the live demo of the e-shopper Ecommerce Apparel Shop website: [Live Demo Link](https://hadiqaaziz.github.io/e-shopper-Ecommerce-Apparel-Shop/)
+
+
 # Table of Contents
 Features
 Pages
@@ -15,7 +19,7 @@ Future Enhancements
 Contributing
 License
 # Features
-- Browse different categories of clothing (e.g., Men's, Women's, Kids')
+- Browse different categories of clothing (e.g., Dresses, Jackets, Shoes)
 - View details of each product
 - Add products to the cart
 - View and update the cart
